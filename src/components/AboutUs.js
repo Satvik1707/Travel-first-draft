@@ -1,5 +1,4 @@
 import "../styles/about.css";
-import img1 from "../assets/12.jpg";
 
 function AboutUs() {
   return (

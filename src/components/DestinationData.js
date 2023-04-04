@@ -18,8 +18,8 @@ const DestinationData = () => {
         </div>
 
         <div className="image">
-          <img alt="img" src={Tangkuban1} />
-          <img alt="img" src={Tangkuban2} />
+          <img alt="random" src={Tangkuban1} />
+          <img alt="random" src={Tangkuban2} />
         </div>
       </div>
 
@@ -32,8 +32,8 @@ const DestinationData = () => {
         </div>
 
         <div className="image">
-          <img alt="img" src={Kawahputih1} />
-          <img alt="img" src={Kawahputih2} />
+          <img alt="random" src={Kawahputih1} />
+          <img alt="random" src={Kawahputih2} />
         </div>
       </div>
 
@@ -46,8 +46,8 @@ const DestinationData = () => {
         </div>
 
         <div className="image">
-          <img alt="img" src={Dufan1} />
-          <img alt="img" src={Dufan2} />
+          <img alt="random" src={Dufan1} />
+          <img alt="random" src={Dufan2} />
         </div>
       </div>
     </>
