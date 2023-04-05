@@ -13,20 +13,26 @@ export const MenuItems = [
   },
   {
     title: "Packages",
-    url: "/service",
+    url: "/package",
     cName: "nav-links",
     icon: "fa-solid fa-briefcase",
   },
   {
     title: "Contact Us",
-    url: "/order",
+    url: "/contact",
     cName: "nav-links",
     icon: "fa-solid fa-address-book",
   },
-  // {
-  //   title: "Weather",
-  //   url: "/wheater",
-  //   cName: "nav-links",
-  //   icon: "fa-solid fa-cloud",
-  // },
+  {
+    title: "Hospital",
+    url: "/hospital",
+    cName: "nav-links",
+    icon: "fa fa-plus-square",
+  },
+  {
+    title: "Weather",
+    url: "/weather",
+    cName: "nav-links",
+    icon: "fa-solid fa-cloud",
+  },
 ];
