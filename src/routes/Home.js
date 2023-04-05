@@ -2,6 +2,7 @@ import Navigation from "../components/Navigation";
 import Hero from "../components/Hero";
 import "../styles/Hero.css";
 import Destination from "../components/Destination";
+import Testimonials from "../components/Testimonials"
 import Footer from "../components/Footer";
 
 function Home() {
@@ -14,10 +15,11 @@ function Home() {
         tittle="company name"
         text="tagline"
         buttonText="Travel"
-        url="/service"
+        url="/packages"
         btnClass="show"
       />
       <Destination />
+      <Testimonials/>
       <Footer />
     </>
   );

@@ -5,34 +5,35 @@ export const MenuItems = [
     cName: "nav-links",
     icon: "fa-solid fa-house",
   },
-  {
-    title: "About",
-    url: "/about",
-    cName: "nav-links",
-    icon: "fa-solid fa-circle-info",
-  },
+
   {
     title: "Packages",
-    url: "/package",
+    url: "/all-packages",
     cName: "nav-links",
     icon: "fa-solid fa-briefcase",
   },
   {
     title: "Contact Us",
-    url: "/contact",
+    url: "/contact-us",
     cName: "nav-links",
     icon: "fa-solid fa-address-book",
   },
   {
     title: "Hospital",
-    url: "/hospital",
+    url: "/hospital-packages",
     cName: "nav-links",
     icon: "fa fa-plus-square",
   },
-  {
-    title: "Weather",
-    url: "/weather",
-    cName: "nav-links",
-    icon: "fa-solid fa-cloud",
-  },
-];
+  // {
+    //   title: "Weather",
+    //   url: "/weather",
+    //   cName: "nav-links",
+    //   icon: "fa-solid fa-cloud",
+    // },
+    {
+      title: "About",
+      url: "/about-us",
+      cName: "nav-links",
+      icon: "fa-solid fa-circle-info",
+    },
+  ];
